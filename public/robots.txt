@@ -1,0 +1,12 @@
+# *
+User-agent: *
+Disallow: /admin/
+Disallow: /search
+Disallow: /redirect
+Disallow: /product
+
+# Host
+Host: undefined
+
+# Sitemaps
+Sitemap: undefined/sitemap.xml

@@ -1,0 +1,17 @@
+/* .vjs-icon-fullscreen-enter:before,
+.video-js .vjs-fullscreen-control .vjs-icon-placeholder:before {
+    background-image: url("/icons/default_avatar.jpg");
+    background-size: cover;
+    content: "" !important
+} */
+
+.video-js[datatype="SHORT"]>.vjs-poster {
+    background-size: cover !important;
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.video-live-box-wrapper-video-js .vjs-poster {
+    background-size: cover;
+}

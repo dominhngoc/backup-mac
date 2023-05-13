@@ -1,0 +1,1 @@
+export const AUTO_PLAY = 'AUTO_PLAY';
